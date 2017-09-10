@@ -1,4 +1,4 @@
-﻿<%@ Page Language="VB" AutoEventWireup="false" CodeFile="index.aspx.vb" Inherits="index" %>
+﻿
 
 <!DOCTYPE html>
 
@@ -79,8 +79,8 @@
                     
      <div class="col-sm-4"> 
     <p>
-          <a  href="back.aspx">
-              <asp:Image href="back.aspx" ID="Image5" runat="server" Height="276px" ImageUrl="~/img/x.png" Width="225px" /> </a>  <div align="center">
+          <a  href="5830213035.aspx">
+              <asp:Image href="back.aspx" ID="Image5" runat="server" Height="276px" ImageUrl="~/img/1.jpg" Width="225px" /> </a>  <div align="center">
             	Mr.Khanchai Khongngod
          </div>
           </p>
