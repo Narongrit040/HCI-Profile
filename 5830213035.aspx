@@ -68,5 +68,7 @@
         <strong>Phone : 062-2051249</strong></p>
     <p class="auto-style13">
         <strong>&nbsp;</strong></p> </center>
+
+     <a href="index.aspx"><h1>BACK</h1></a>
 </body>
 </html>

@@ -41,7 +41,7 @@
     </style>
 </head>
 <body>
-    <form id="form1" runat="server">
+    <form id="form1" runat="server" ><font color="white">
         <div>
         &nbsp;
             <div class="profile-pic">
@@ -133,6 +133,6 @@
             </p>
 
         </div>
-    </form>
+    </font></form>
 </body>
 </html>
